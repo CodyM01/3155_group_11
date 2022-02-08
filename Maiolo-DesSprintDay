@@ -1,0 +1,166 @@
+Individually:
+Use your map to write scenarios and user stories (Sommerville pg. 63-69)
+From your scenario and user stories develop your features
+
+Group:
+Look at your group members scenarios and stories and generate a feature list
+
+
+Individual Scenarios
+Adam Lowder
+Initial Assumption:
+	The student has just recently graduated and is looking for open positions in the area. They have been attending job fairs and have been recently told about GoodJob from one of the recruiters.
+
+Normal:
+The student was told about GoodJob through a career event where it was recommended to them by a job recruiter. They tried it out, creating a profile and uploading their resume, portfolios, and references. After searching through with the advanced search options, which allowed for a more narrow job search, they applied for a few jobs and internships that seemed interesting. After a while the recruiters got back and either scheduled an interview, or expressed how their profile could be better improved to be more appealing in the future. Going off of these tips, the user is better able to improve for future applications.
+
+What can go wrong:
+	The user has problems with some of the search options conflicting, which doesn’t allow the search function to be used unless the site is reloaded.
+	The user also has a problem where the area on their profile isn’t able to be updated, so the current account would need to be deleted and a new one created if their residence changed.
+
+System State on Completion:
+	The user is able to apply for jobs during their off hours, view potential offers and log off for the day.
+
+
+
+Min Aung -
+Actor: Bob Joe
+Initial Assumption:
+	Bob Joe registers on GoobJob after hearing from Academic Advisor. He has completed an Internship and is looking for another during his summer.
+Normal:
+         Bob Joe has just registered on GoodJob and is beginning to create/set up his profile with personal information and uploading necessary documents related to optimize his internship Search. He then search through a list of filtered jobs/Internship catered to his personal skil around his area. After looking, Bob applies and tries to get an internship from prospective employer.
+
+What can go wrong: 
+	Job might not be able to find a match catered to his preferences/profile.
+Job might have issues with uploading/creating profile. 
+There might not be any jobs in his specific area radius.
+
+ System of Completion
+	Bob closes application with job forms completed and has notification awaiting for next step.
+Beau Tate
+Actor: Student
+Initial Assumption:
+        	The student has registered for GoodJob and has access to either the website or application. They are a college student who is in a position to be looking for either an internship or full time employment.
+ 
+Normal:
+        	The student opens the app and uploads a revised version of their resume after receiving some feedback from the career center. They also update preferences for job location to include neighboring states after reading that the median salary in nearby locations is a little bit higher than where they currently live. Finally, they spend a few minutes browsing through jobs and flagging jobs that look interesting with hopes of getting an initial interview.
+ 
+What can go wrong:
+        	The student encounters an issue with conflicting versions of their resume and the previous version is still showing whenever they click through to view the resume that employers will see.
+        	Location preferences have also changed since their last log in but the user hadn’t prompted the change. For some reason it was set to the zip code where GoodJob is headquartered.
+        	Finally, the user receives an error whenever they try to pull up job listings.
+ 
+System state on completion:
+        	The user logs off from the app and website and all changes are preserved and information is accurate. Relevant employers are notified of applicant interest. 
+
+Tobi Ladipo
+Actor: Student 
+Name: Diana 
+
+Initial Assumption:
+	Diana is a recent computer science graduate who is looking for potential opportunities in the field. She has had difficulty obtaining employment and has had little luck through job search websites and job fairs. She was recruited on the spot by a buddy who also graduated with her and she utilized the website "GoodJob" to assist her navigate her position.
+
+Normal:
+Diana found out about GoodJob from a college buddy. She played around with the website, creating accounts and uploading resumes, presentations, and recommendations. They applied for a few opportunities and internships that piqued their interest after using the advanced search capabilities, which allowed for a more focused employment search. As a consequence of these suggestions, the user is in a better position to improve for future applications.
+
+What can go wrong:
+	Diana could have trouble using the mobile versions of the websites. It does not appear to be mobile-friendly. She does not appear to have a major issue, but she appears to rely heavily on her phone to carry out her duties.e created if their residence changed.
+
+System State on Completion:
+   Diana figured out why the website wasn't mobile friendly, and she was finally able to reach recruiters and receive emails about open positions.
+	
+
+Afif Rahman - 
+Actor: Student
+Initial Assumption: Zach is currently searching for an entry-level position. He is a senior that has completed a couple internships. He is trying out GoodJobs in hopes of being recognized by recruiters to get the best opportunity possible.
+Normal: Zach creates a profile in GoodJobs where he can upload his resume, projects, and other files/resources that can be helpful to show recruiters. He also connected his email for future notifications and updates. There are also filter options that Zach can use when looking for entry-level positions, such as location, level of experience (what coding languages candidates are proficient in), and field of expertise (computer science concentration). 
+What can go wrong: Zach could have trouble keeping track of which resume version is uploaded on GoodJobs and won’t be sure which resume version was sent to each recruiter. 
+System state on completion: Zach closes the application waiting for an email notification. The recruiter will either reply by saying they will continue with the interview process or will notify that they have moved forwards towards better candidates. 
+
+
+Minh Anh Nguyen -
+Jane, 22, is currently majoring in computer science and will be finishing up college this semester. She’s a highly rigorous and organized student. She’s aiming for a job in front-end web development and wants to have one lined up before her graduation to make things convenient. Since there are over thousands of job postings in comp sci, Jane wants to make sure she saves time and only searches for jobs that match her career. When meeting with her advisor, she was recommended a job platform website called “GoodJob.” Jane used the site to sign up and create a profile with all her attributes. She also uploaded her resume to the site. In terms of searching, Jane used the advanced search option which uses her specific attributes and filter options to narrow down the search results to only front-end web dev postings.
+
+Rob Shelton:
+Actor:Student
+
+Initial Assumption:
+Michael Scott, a Sophmore, wanted some real-world experience in the world of electrical engineering and he wanted to establish himself in his class. He heard from his advisors and friends about GoodJob. 
+	
+Normal:
+	The student creates an account with GoodJob. They put in all of their information pertaining to their education, like their transcript. In addition, the student will be able to add other information like a resume and add specifically previous work experience. With the account complete, the student has the ability to search for internships in their area and find one that they like and see if they qualify for the position.
+
+What can go wrong:
+The student is unable to put any information in the system or the system deletes the user’s data.
+The student is unable to find a job in their location 
+Since the student is an underclassman, they do not have the qualifications/experience to get an internship. 
+
+System State on Completion:
+	The student is able to find an internship that they like, successfully apply, and log off knowing that the hiring committee will receive their information.
+
+Cody Maiolo :
+
+Student: Rob Lowe
+
+Initial assumption: Upon receiving word about GoodJob, Rob Lowe downloads and checks out the application because he is a Junior CS student looking for an internship.
+
+Normal:  Upon checking out the application, Rob Lowe creates an account with GoodJob and uploads his Resume and LinkedIn profile link. Rob is able to personalize his account with skills listed, hobbies, goals, etc…  He can even specify the job fields in which he would like to work in, in order to help the recruiters search algorithms.
+
+What can go wrong: The account has serious lagging issues or uploading delays.
+The account can seem cheap to their standard, thus steering him away from the application.
+He could not get noticed because he is not well informed on what to enter into the job fields to help out the algorithms.
+
+System state on Completion:  Rob is able to get intouch with the right recruiters in a timely fashion in order to get his desired internship or possible job.
+
+
+
+
+
+Individual User Stories
+As Bob Joe, I want to find an internships that are in the summer quickly, so that Ill have time to prep for Interview. - Min Aung
+
+As a student, I want to be able to access jobs that are geographically relevant to me so that I don’t waste time parsing through jobs that are in locations where I’m not willing to work.- Beau Tate
+
+As Zach, a senior college student, he wants to find an entry-level position that’ll help him grow into the role. - Afif
+
+I’m a newly graduated CS major looking for potential job offers in my area, I’m also curious about what similar jobs can pay, as well as what benefits the competing companies may be offering.
+
+As a graduating student, I want to be able to quickly and efficiently find relevant jobs to my career and match me with the right job after college - Minh Anh Nguyen
+
+I worked extremely hard for my degree as a recent computer science graduate, and I want to find a job that fits the requirements for what I want to accomplish with my degree - Tobi 
+
+As an underclassman, I would like to quickly and efficiently find an internship that is right for me and I qualify for. - Rob
+
+As a Junior, it is stressful finishing up the last leg of your degree while also putting yourself out there looking for an internship to gain experience.
+
+Individual Features
+Ability to set and change your location (Beau)
+Ability to set a distance filter for jobs (Beau)
+Ability to filter based on concentration (cybersecurity, robotics, software development) (Afif R)
+Recruiter’s contact information (Afif R)
+User contact information (for recruiters or colleagues) (Afif R)
+Resume Submission/Extractor (Min A)
+Automated Search Filter/Pre Screening (Min A)
+Job/Candidate Match Alert (Min A)
+Advanced search filters to find specific jobs of interest (Adam)
+Customized profiles to show recruiters more about you (Adam)
+Resume revisor (Minh Anh N.)
+Algorithm knowledge(Cody Maiolo)
+A user dashboard (Minh Anh N.)
+Up-to-date notifications(Cody Maiolo)
+
+Group Feature List
+Ability to set and change your location
+Filter by category (cybersecurity, software development, robotics)
+Ability to set a distance filter for jobs 
+Resume Submission/Extractor 
+Automated Search Filter/Pre Screening 
+Job/Candidate Match Alert 
+Advanced search filters to find specific jobs of interest 
+Customized profiles to show recruiters more about you 
+Resume revisor
+A user dashboard
+Notification when company selects you for the interview process
+Dashboard suggests jobs based on your user information
+Portal for getting feedback from previous interviewers
+Portfolio section that allows users to showcase personal projects
